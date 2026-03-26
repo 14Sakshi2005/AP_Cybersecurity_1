@@ -1,6 +1,6 @@
  Linux Cheat Sheet
 
-Networking
+## Networking
 
 - ip a → show IP
 - ping → test connectivity
