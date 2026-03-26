@@ -39,3 +39,7 @@ Full system access achieved.
 ##  Conclusion
 
 This lab demonstrates how weak credentials and vulnerable services can lead to complete system compromise.
+
+##  Link for Video (LinkedIn)
+https://www.linkedin.com/posts/sakshii-yadav-b46742376_cybersecurity-ethicalhacking-kalilinux-ugcPost-7442908407327674370-mVOP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0Di-YBIckNK1B5vQM_opxCZ4VV68c8Y58
+
