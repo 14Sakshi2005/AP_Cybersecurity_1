@@ -1,0 +1,24 @@
+#  Linux Cheat Sheet
+
+##  Networking
+
+* `ip a` → show IP
+* `ping` → test connectivity
+
+##  Scanning
+
+* `nmap -A <target>` → aggressive scan
+
+##  Access
+
+* `telnet <ip>` → remote login
+
+##  Privilege Escalation
+
+* `nmap --interactive`
+* `!sh`
+
+##  System Info
+
+* `whoami`
+* `uname -a`
